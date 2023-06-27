@@ -12,7 +12,8 @@ Classification<br>
 
 
 RESULT:<BR>
-![LEAFY (2)](https://github.com/zadkiel05/Leaf-Disease-Detection-/assets/136728698/512e8cf4-60f2-4fca-bb6e-ed6d36c0e146)
+![fit leaf (1)](https://github.com/zadkiel05/Leaf-Disease-Detection-/assets/136728698/89d59340-8d68-41c9-a492-041dbb48b86b)
+
 
 
 
