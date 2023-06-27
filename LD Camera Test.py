@@ -29,7 +29,7 @@ while(True):
     print(result)
 
     cv2.putText(frame, result, (10, 20),cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 255, 0), 2)
-    cv2.imshow("Leaf",frame)
+    cv2.imshow("Image",frame)
     key = cv2.waitKey(10)
     if key == 27:
         break
